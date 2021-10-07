@@ -93,3 +93,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuerv99&langs_count=10&theme=tokyonight&hide=jupyter%20notebook,lex&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=josuerv99&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+  
+-----
+Credits: [JOSUERV99](https://github.com/JOSUERV99)
+
+Last Edited on: 06/10/2021
